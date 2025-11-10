@@ -37,17 +37,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  <a href="https://www.oatly.com">
+  
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home  
-  <img src="readme-images/ss_website_home1.jpg" width="100px" alt="Screenshot 1 homepagina">
-  <img src="readme-images/ss_website_home2.jpg" width="100px" alt="Screenshot 2 homepagina">
-  <img src="readme-images/ss_website_home3.jpg" width="100px" alt="Screenshot 3 homepagina">
+  <img src="readme-images/ss_website_home1.jpg" height="250px" alt="Screenshot 1 homepagina">
+  <img src="readme-images/ss_website_home2.jpg" height="250px" alt="Screenshot 2 homepagina">
+  <img src="readme-images/ss_website_home3.jpg" height="250px" alt="Screenshot 3 homepagina">
   #### Screenshot(s) van de tweede pagina (small screen):
   Ginger nut chai recept 
-  <img src="readme-images/ss_website_recept1.jpg" width="100px" alt="Screenshot 1 recept">
-  <img src="readme-images/ss_website_recept2.jpg" width="100px" alt="Screenshot 2 recept">
-  <img src="readme-images/ss_website_recept3.jpg" width="100px" alt="Screenshot 3 recept"> 
+  <img src="readme-images/ss_website_recept1.jpg" height="250px" alt="Screenshot 1 recept">
+  <img src="readme-images/ss_website_recept2.jpg" height="250px" alt="Screenshot 2 recept">
+  <img src="readme-images/ss_website_recept3.jpg" height="250px" alt="Screenshot 3 recept"> 
 </details>
 
 
