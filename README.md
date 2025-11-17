@@ -60,9 +60,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <p>Ik heb een toegankelijkheidstest gedaan om te onderzoeken hoe toegankelijk de Oatly website is voor mensen met een visuele beperking. De website heeft een Accesibility statement, waarin staat dat ze accesibility testing tools gebruiken en handmatig testen om te zorgen dat de website zo toegankelijk mogenlijk is. Toch heb ik een aantal dingetjes gevonden die beter kunnen. Dit waren mijn bevindingen:</p>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  <ul>
+    <li>De website heeft geen darkmodus.</li>
+    <li>De screanreader werkte. Hij kon allerlei elemanten voorlezen en beschrijven. Af en toe waren er veel onzichtbare elementen achter elkaar, waarbij de voiceover dingen voorlas die ik zelf niet zag op het scherm, maar het kan zijn dat ik de screanreader niet goed heb gebruikt.</li>
+    <li>De website is toegankelijk op het gebied van kleurenblindheid. Alles was goed zichtbaar bij elke soort kleurenblindheid die ik kon testen met Colorblindly</li>
+    <li>Oatly gebruikt veel zwart op witte tekst, dus het contrast van de tekst en achtergrond is erg hoog.</li>
+    <li>Het contrast van de rode tekst op de recept-pagina, is net te laag.</li>
+    <li>Op de homepagina zijn er ook een aantal teksten en afbeeldingen met een erg laag contrast. Ook de het contrast van de verpakkingen van oatly zijn erg laag.</li>
+    <li>De toggles om cookies in te stellen hebben een erg laag contrast.</li>
+    <li>De tekst op de cookies pop-up is erg klein.</li>
+    <li>Er zit niet veel beweging in deze twee pagina's van de website, dus het is toegankelijk voor mensen met een bewegingsziekte. </li>
+    <li>Als ik op tab klik, kan ik niet navigeren door de website. Ik blijf zitten in de adresbalk.</li>
+    <li>Met ingezoomde weergave blijft de website functoneel.</li>
+    <li>Er is geen media die automatisch afspeelt die je niet op pauze kan zetten. Alleen een kleine animatie die constant beweegt.</li>
+  </ul>
+
+  <p>De screenreader vond ik lastig te begrijpen, dus daar ga ik op een later moment nog even meer de tijd voor nemen.</p>
 
 </details>
 
