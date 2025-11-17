@@ -36,8 +36,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  <p>originele website:</p>
   <a href="https://www.oatly.com">Oatly.nl</a>
+  <p>mijn website:</p>
+  <a href="https://eva384.github.io/FED_blok2/">Oatly2.nl</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home  
