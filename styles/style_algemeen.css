@@ -1,0 +1,150 @@
+/*********/
+/* FONTS */
+/**************/
+
+
+
+
+
+/**************/
+/* CSS REMEDY */
+/**************/
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+
+
+
+
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+	--color-text:#111;
+	--color-background-body:#FFFEF6;
+	--color-background-elements:#FFF;
+	--color-background-home-menu:#EAF3F6; 
+	--border-color:#111;
+}
+
+
+
+
+
+
+/****************/
+/* JOUW STYLING */
+/****************/
+* {
+	font-family: "Courier";
+	text-decoration: none;
+	color: var(--color-text);
+	background-color: var(--color-background-body);
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+button {
+	border-radius: 0%;
+	border: 0;
+	padding: 0;	
+}
+
+
+
+
+header > ul {
+	display: flex;
+	align-items: center;
+	margin-bottom: 0;
+}
+
+header > ul li:nth-of-type(2) {
+	margin-left: auto;
+}
+
+/*	hamburger menu later afmaken
+header {
+	position: sticky;
+	top: 0;
+}
+*/
+
+nav {
+	display: flex;
+	flex-direction: column;
+}
+
+header nav ul {
+	padding-left: 6em;
+	padding-bottom: 1em;
+	list-style-image: url('../images/List_image.png');
+}
+
+header nav > a {
+	padding: 1.2em 3em;
+	border-top: 0.1em solid #000;
+}
+
+header nav > a:not(:first-child) {
+	padding-top: 2.5em;
+}
+
+header nav li {
+	padding: 0.7em 0;
+}
+
+header nav > a:first-of-type {
+	background-color: var(--color-background-home-menu);
+}
+
+/*
+header nav {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+*/
+
+
+
+
+footer {
+	margin-top: 2em;
+}
+
+footer > ul li {
+	text-align: center;
+	padding: 0.5em;
+}
+
+footer > ul li:nth-of-type(1) {
+	width: 3em;
+}
+
+footer > ul li:nth-of-type(2) {
+	width: fit-content;
+}
+
+footer > ul:first-child {
+	display: grid;
+	grid-template-columns: 1fr 1fr;	
+}
+
+footer > ul li:nth-of-type(3) {
+	grid-column: 1/-1;
+}
+
+
+footer nav ul {
+	display: flex;
+	justify-content: center;
+}
