@@ -149,21 +149,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
   lastig: 
-  - Content groeperen zonder divs gebruiken
+  - Content groeperen en stijlen zonder divs gebruiken
+  - Wat is de beste manier om de h1 te verbergen? 
   - Waarom hebben 4 van de 5 images een opmaak? en hoe haal je weg?
   <img src="readme-images/Probleem_1.png" width="300px" alt="screenshot probleem">
-  - Wat is de beste manier om de h1 te verbergen? 
-
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Ik
+  | ---
+  | Flexbox toepassen op een <dl> zonder divs
+  | Hoe krijg ik mijn font op mijn website zonder dat het illegaal is?
+  | Layout section op mijn homepagina (grid of flexbox?)
+  | Beste tag voor een label
 
+  | Roos
+  | ---
+  | Gradient op een foto
+  | meerdere types aanspreken zonder 2x hetzelfde met nth-of-type te gebruiken
+  | Pijltjes stijlen in details/summary
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -171,7 +176,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - punt 1
   - punt 2
   - nog een punt
-- ...
+  - ...
 
 </details>
 
@@ -201,22 +206,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | Ik
-  | ---
-  | Flexbox toepassen op een <dl> zonder divs
-  | Hoe krijg ik mijn font op mijn website zonder dat het illegaal is?
-  | Layout section op mijn homepagina (grid of flexbox?)
-  | Beste tag voor een label
-
-  | Roos
-  | ---
-  | Gradient op een foto
-  | meerdere types aanspreken zonder 2x hetzelfde met nth-of-type te gebruiken
-  | Pijltjes stijlen in details/summary
+  | student 1      | student 2          | student 3    | student 4        |
+  | ---            | ---                | ---          | ---              |
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | ...            | ...                | ...          | ...              |
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
