@@ -159,7 +159,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Ik
   | ---
-  | Flexbox toepassen op een <dl> zonder divs
+  | Flexbox toepassen op een description list zonder divs
   | Hoe krijg ik mijn font op mijn website zonder dat het illegaal is?
   | Layout section op mijn homepagina (grid of flexbox?)
   | Beste tag voor een label
