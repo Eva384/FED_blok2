@@ -170,13 +170,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | meerdere types aanspreken zonder 2x hetzelfde met nth-of-type te gebruiken
   | Pijltjes stijlen in details/summary
 
+  | Emilie
+  | ---
+  | Hoe krijg ik de puntjes bij mijn lijst weg?
+  | Ik heb een div, is dit div waardig?
+  | Hoe zet ik de svg er goed in?
+
+  | Loïs
+  | ---
+  | Als er een timer midden in de tekst staat, moet dit dan toegevoegd worden in html en zo ja hoe voeg je dit toe?
+  | Kan je ook meerdere sections in een section hebben of dien je dan articles te gebruiken?
+
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Gebruik table element ipv een detailed list
+  - Gebruik grid voor de layout van de homepagina sections
+  - Het label hoeft niet aangezien ik surface plain doe. Op een kleiner scherm is het een img/icoontje
 
 </details>
 
@@ -204,16 +214,34 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  - layout kaartjes op de homepagina lukt eindelijk met grid! --> de pagina begint op oatly.com te lijken.
+  - Javascript is lastig, maar het hamburgermenu is wel gelukt
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Ik
+  | ---
+  | Wat is de beste plek voor mijn custom properties?
+  | Heb ik de table correct gemaakt?
+  | Hoe hou ik een grid item vierkant op hele smalle schermen?
+
+  | Roos
+  | ---
+  | Waarom tabt ie ook de linkjes in het gesloten menu?
+  | Hoezo zit hier witruimte en hoe krijg ik die weg?
+  | Valt het hamburgermenu en automatische carousel onder de 5 elementen van surface plane?
+
+  | Emilie
+  | ---
+  | 
+  | 
+  | 
+
+  | Loïs
+  | ---
+  | 
+  | 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -268,6 +296,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   3. https://www.reddit.com/r/web_design/comments/owee0a/is_it_okay_for_seo_to_visually_hide_the_h1/
   4. https://www.w3schools.com/tags/tag_dl.asp
   5. https://www.w3schools.com/css/css_margin.asp
-  6. 
+  6. https://cssgridgarden.com/#nl (niveau 18)
+  7. https://flexboxfroggy.com/#nl
+  8. https://www.w3schools.com/css/css3_shadows_box.asp
+  9. https://www.w3schools.com/cssref/css_pr_justify-self.php
+  10. https://cssgrid-generator.netlify.app/
+  11. https://www.w3schools.com/tags/ref_pxtoemconversion.asp
+  12. https://www.w3schools.com/cssref/sel_has.php
 
 </details>
