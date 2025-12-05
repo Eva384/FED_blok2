@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <p>originele website:</p>
   <a href="https://www.oatly.com">Oatly.nl</a>
   <p>mijn website:</p>
-  <a href="https://eva384.github.io/FED_blok2/">Oatly2.nl</a>
+  <a href="https://eva384.github.io/FED_blok2/">https://eva384.github.io/FED_blok2/</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home  
