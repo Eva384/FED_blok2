@@ -246,9 +246,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
+  - Grid veranderen, de fr afmetingen werken niet goed
+  - alle custom properties in algemeen en ordenen
+  - voor hele kleine schermen 1 column gebruiken, vooral bij grotere lettertypes
   - ...
 
 </details>
@@ -293,7 +293,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   1. https://www.oatly.com/
   2. https://www.oatly.com/recipes/look-book-autumn-winter-2025/ginger-nut-chai
-  3. https://www.reddit.com/r/web_design/comments/owee0a/is_it_okay_for_seo_to_visually_hide_the_h1/
+  3. https://www.a11yproject.com/posts/how-to-hide-content/
   4. https://www.w3schools.com/tags/tag_dl.asp
   5. https://www.w3schools.com/css/css_margin.asp
   6. https://cssgridgarden.com/#nl (niveau 18)
@@ -303,5 +303,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   10. https://cssgrid-generator.netlify.app/
   11. https://www.w3schools.com/tags/ref_pxtoemconversion.asp
   12. https://www.w3schools.com/cssref/sel_has.php
+  13. https://codepen.io/shooft/pen/NPGXJGq?editors=0110
+  14. https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table
+  15. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-collapse
 
 </details>

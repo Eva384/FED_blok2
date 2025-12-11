@@ -39,15 +39,28 @@
 
 
 
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
+	/* algemeen */
 	--color-text:#111;
 	--color-background-elements:#FFF;
 	--color-background-home-menu:#EAF3F6; 
 	--border-color:#111;
+
+	/* home */
+	--background-color-home: #fffef6;
+	--button-color-show-more: #000; 
+	--button-text-color-show-more: #FFF;
+
+	/* recept */
+	--color-text:#111;
+	--color-heading:#E53E39;
+	--color-text-details:#E53E39;
+	--color-background-recept:#FFF;
+	--border-color-recept:#E53E39;
+	--border-color-2-recept: #C6C6C6; 
 }
 
 
@@ -145,7 +158,9 @@ header nav > a:first-of-type {
 	background-color: var(--color-background-home-menu);
 }
 
-
+header nav:focus-within {
+	translate: 0%;
+}
 
 /* hamburger menu */
 header li:first-of-type button {
@@ -231,6 +246,11 @@ footer nav:first-of-type ul {
 
 footer nav:first-of-type li:nth-of-type(3) {
 	grid-column: 1/-1;
+}
+
+footer nav:first-of-type a {
+	text-align: center;
+	padding: 0.5em;
 }
 
 
